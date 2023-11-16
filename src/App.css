@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #fff;
 }
 
 .App-logo {
@@ -36,3 +37,28 @@
     transform: rotate(360deg);
   }
 }
+
+/*TopBar*/
+.TopBar {
+  width: 100%;
+  text-align: left;
+  padding: 5px;
+  position: absolute;
+  top: 0px;
+  z-index: 3;
+  /*background-color: #282c34;*/
+}
+
+.TopBar Img {
+  width: 14%;
+}
+
+.MenuIcon {
+
+}
+/*NavMenu*/
+/*ImageSection*/
+
+/*SolidSection*/
+
+/*Footer*/
